@@ -6,18 +6,19 @@ Chapter 2 Sample program for micro: bit book
 ---
 * microbit-act1.hex
 ```
-ハートアイコン表示
+繝上�ｼ繝医い繧､繧ｳ繝ｳ陦ｨ遉ｺ
 ```
 * microbit-act2.hex
 ```
-A、Bボタンでアイコン表示変化
+A縲。繝懊ち繝ｳ縺ｧ繧｢繧､繧ｳ繝ｳ陦ｨ遉ｺ螟牙喧
 ```
 * microbit-act2_2.hex
 ```
-A、Bボタンでアイコン表示変化(if,else if使用 )
+A縲。繝懊ち繝ｳ縺ｧ繧｢繧､繧ｳ繝ｳ陦ｨ遉ｺ螟牙喧(if,else if菴ｿ逕ｨ )
 ```
 * microbit-act3.hex
-"あいう"ひらがな表示(縦スクロール)
+```
+"縺ゅ＞縺�"縺ｲ繧峨′縺ｪ陦ｨ遉ｺ(邵ｦ繧ｹ繧ｯ繝ｭ繝ｼ繝ｫ)
 ```
 ## License
 MIT
